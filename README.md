@@ -1,4 +1,3 @@
 sample README file
-modified on branch master
-
+modified on new_branch
 
